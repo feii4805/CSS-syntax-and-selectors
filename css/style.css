@@ -1,0 +1,36 @@
+body {
+  color: brown;
+}
+
+h1 {
+  color: red;
+  background-color: rgba(87, 39, 149, 0.249);
+  text-emphasis:"x";
+}
+
+
+
+
+.quote {
+  color: rgb(227, 118, 16);
+  outline-style:dotted;
+  outline-color: rgb(77, 125, 168);
+}
+
+.quote.narrator {
+  color: rgb(234, 91, 8);
+  outline-style: dashed;
+  outline-color: rgb(230, 8, 45);
+}
+
+#intro p {
+  color: rgb(13, 103, 212);
+  transform: scale(3); 
+  
+}
+
+.super-important-omg {
+  font-size: 20px;
+  background-color: yellow;
+}
+
